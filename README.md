@@ -2,3 +2,5 @@
 
 
 H&amp;M Personalized Fashion Recommendations Provide product recommendations based on previous purchのために作成したスクリプト置き場
+
+2022/5/12にpublicに変更
